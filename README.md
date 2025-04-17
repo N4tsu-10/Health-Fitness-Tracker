@@ -1,6 +1,6 @@
-#Health & Fitness Tracker - README
+**Health & Fitness Tracker - README**
 
-#Technology Stack
+**Technology Stack**
 
 Frontend
 
@@ -14,7 +14,7 @@ Axios
 
 Chart.js
 
-#Backend
+**Backend**
 
 ASP.NET Core Web API (.NET 8)
 
@@ -27,7 +27,7 @@ JWT Authentication
 Swagger/OpenAPI
 
 
-#Prerequisites
+**Prerequisites**
 
 
 Before you begin, ensure you have the following installed:
@@ -43,7 +43,7 @@ MySQL
 Visual Studio Code or any preferred IDE
 
 
-#How to Run
+**How to Run**
 
 Step 1: Install NuGet Packages
 
@@ -218,7 +218,7 @@ builder.Services.AddCors(options =>
 });
 
 
-#Frontend Configuration
+**Frontend Configuration**
 
 Create or update .env file in the client directory:
 
@@ -238,7 +238,7 @@ module.exports = function(app) {
 };
 
 
-#Running the Application
+**Running the Application**
 
 Backend
 
